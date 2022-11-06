@@ -268,7 +268,7 @@ export const IconGit = styled.button`
   position: absolute;
   width: 56px;
   height: 56px;
-  left: 306px;
+  left: 308px;
   top: 93px;
   cursor: pointer;
   background-color: #442434;
@@ -281,7 +281,7 @@ export const IconSB = styled.button`
   position: absolute;
   width: 56px;
   height: 56px;
-  left: 380px;
+  left: 377px;
   right: 380px;
   top: 93px;
   cursor: pointer;
