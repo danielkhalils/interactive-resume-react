@@ -221,7 +221,7 @@ export const IconFigma = styled.button`
   cursor: pointer;
   background-color: #442434;
   border: none;
-  background-image: url('./images/icons/Figma.png');
+  background-image: url('./images/icons/figma.png');
   background-size: cover;
 `;
 
