@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node e NPM](https://nodejs.org/)
 - [Aseprite](https://www.aseprite.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
-- [Vercel](https://payment-project-omega.vercel.app/)
+- [Vercel](https://interactive-resume-react-flax.vercel.app/)
 
 ## 💻 Projeto
 
