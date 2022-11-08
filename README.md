@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é meu currículo interativo. Nele você encontra informações sobre meus trabalhos, conhecimentos e experiências no mercado como desenvolvedor. 
 
+[CLIQUE AQUI](https://interactive-resume-react-flax.vercel.app/) PARA VISUALIZAR O PROJETO!
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/qKsCcIJiGm6jB99LvKokQv/Portfolio-React-PixelArt-(Copy)?node-id=206%3A171). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
